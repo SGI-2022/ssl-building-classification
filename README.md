@@ -1,0 +1,2 @@
+# ssl-building-classification
+Robustly classifying buildings is challenging since their shapes vary based on many socio, geographical, and contextual factors. During this project, we will answer “How can we classify buildings without labels?”. We are not interested in understanding if a building is an office space or a hospital. Instead, we focus on finding a way to classify buildings based on features we will extract. This research will consider an inclusive and democratic playground since the building typologies are extracted from different countries around the world. 
